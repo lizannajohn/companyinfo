@@ -12,3 +12,6 @@ Navbar - sticky (25 marks)
 Info flex - text on the left and images on the right (20 marks)
 Images flex - flex with flexwrap or 2 rows (30 marks)
 Css styling same (25 marks)
+
+Deploy Link:
+https://lizannajohn.github.io/companyinfo/
